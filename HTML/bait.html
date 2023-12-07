@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/mainstyle.css">
+    <link rel="stylesheet" href="/CSS/baitstyle.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1 class="logo">
+                    <span class="span-logo">Saipan Inshore</span>
+                    Fishing
+                </h1>
+            </div>
+            <ul id="menu">
+                <li><a href="/index.html" onmouseenter="audio.play()">Home</a></li>
+                <li><a href="/HTML/gear.html" onmouseenter="audio.play()">Recommended Gear</a></li>
+                <li><a href="/HTML/bait.html" onmouseenter="audio.play()">Bait/Lures</a></li>
+                <li><a href="/HTML/spots.html" onmouseenter="audio.play()">Favorite Spots</a></li>
+                <li><a href="/HTML/contact.html" onmouseenter="audio.play()">Share/Message</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h1 id="head"><span class="pink">Best Bait</span> and Lures</h1>
+
+    <div class="box">
+        <h2 class="title"><span class="pink">Dead Bait</span> / Cut Bait</h2>
+            <div class="cont">
+                <ul>
+                    <li><span class="pink">Squid</span></li>
+                    <li>Shrimp</li>
+                    <li><span class="pink">Tuna Belly</span></li>
+                </ul>
+                <div>
+                    <img src="/Images/bait/squid.png" alt="Photo of Squid">
+                    <img src="/Images/bait/shrimp.jpg" alt="Photo of Shrimp">
+                    <img src="/Images/bait/tuna.jpg" alt="Photo of Tuna">
+                </div>
+            </div>
+    </div>
+
+    <div class="box">
+        <h2 class="title"><span class="pink">Hard</span> Lures</h2>
+            <div class="cont">
+                <ul>
+                    <li><span class="pink">Minnow/Crankbait</span></li>
+                    <li>Jigs</li>
+                    <li><span class="pink">Poppers</span></li>
+                </ul>
+                <div>
+                    <img src="/Images/bait/minnow.png" alt="Photo of Crankbait">
+                    <img src="/Images/bait/popper.jpg" alt="Photo of Popper">
+                    <img src="/Images/bait/jig.jpg" alt="Photo of Jig">
+                </div>
+            </div>    
+    </div>
+
+    <div class="box">
+        <h2 class="title"><span class="pink">Soft</span> Lures</h2>
+            <div class="cont">
+                <ul>
+                    <li><span class="pink">Plastic Shad</span></li>
+                    <li>Plastic Jerkbait</li>
+                    <li><span class="pink">Condom</span></li>
+                </ul>
+                <div>
+                    <img src="/Images/bait/shad.jpg" alt="Photo of Shad">
+                    <img src="/Images/bait/jerk.jpg" alt="Photo of Jerkbait">
+                </div>
+            </div>    
+    </div>
+
+    <script type="text/javascript">
+        const audio = new Audio();
+        audio.src = "./audio/beep.mp3"
+    </script>
+    
+</body>
+</html>

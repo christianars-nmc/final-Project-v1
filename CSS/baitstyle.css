@@ -1,0 +1,42 @@
+
+p {
+    width: 500px;
+    height: 200px;
+}
+
+#head {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.title {
+    text-align: center;
+    border-bottom: 5px solid white;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.pink {
+    color: hotpink;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 20px;
+    color: aqua;
+    list-style-type: katakana;
+    font-weight: bold;
+}
+
+h2, h1 {
+    color: aqua;
+}
+
+img {
+    width: 300px;
+}

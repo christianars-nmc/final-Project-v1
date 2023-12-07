@@ -1,0 +1,12 @@
+Stradic : https://www.bcf.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dwdfee3ed8/images/580921/BCF_580921_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80
+Sienna : https://media-www.canadiantire.ca/product/playing/fishing/fishing-equipment/0771728/shimano-sienna-spinning-reel-4000-c2501b75-d73f-44b0-b619-c6c69b89aa69-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=mZoom
+Avid : https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/original/products/475/40935/Avid-Series-Spinning_1__35790.1686844332.jpg?c=1
+Triumph: https://api.jandh.com/image/resize/media/upload/product/4779/triumph-spinning-2foot.jpg?q=85&path=media%2Fupload%2Fno_image%2Fnoimage.png&w=767&h=767
+GX2 : https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/original/products/2149/17775/media__50124.1660243229.jpg?c=1
+Certate LT : https://api.jandh.com/image/resize/media/upload/product/4159/CERTATE3K.jpg?q=85&path=media%2Fupload%2Fno_image%2Fnoimage.png&w=767&h=767
+Egg Sinker : https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/1280x1280/products/239/16960/media__36359.1660242973.jpg?c=1
+Hooks : https://bloximages.chicago2.vip.townnews.com/floridasportfishing.com/content/tncms/assets/v3/editorial/2/32/2329a0e5-a16f-52bd-9ef7-90777c8ad1cb/6478f957b6bcc.image.jpg?resize=780%2C500
+Leader : https://cdn11.bigcommerce.com/s-7z0dxjb/images/stencil/1280x1280/products/842/2162/daiwa-jfl20-100-j-fluoro-fluorocarbon-leader__99190.1568409465.jpg?c=2
+Squid: https://s.alicdn.com/@sc04/kf/Afaadab737a4747219dd850c214c51eddx.png_720x720q50.jpg
+Shrimp : https://umamicart.com/cdn/shop/products/42_grande.png?v=1655980691
+Tuna : https://www.pacificbay.com.ph/cdn/shop/products/tuna-belly-349173.png?v=1685551684

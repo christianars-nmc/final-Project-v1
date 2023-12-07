@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="/mainstyle.css">
+    <link rel="stylesheet" href="/CSS/contactstyle.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1 class="logo">
+                    <span class="span-logo">Saipan Inshore</span>
+                    Fishing
+                </h1>
+            </div>
+            <ul id="menu">
+                <li><a href="/index.html" onmouseenter="audio.play()">Home</a></li>
+                <li><a href="/HTML/gear.html" onmouseenter="audio.play()">Recommended Gear</a></li>
+                <li><a href="/HTML/bait.html" onmouseenter="audio.play()">Bait/Lures</a></li>
+                <li><a href="/HTML/spots.html" onmouseenter="audio.play()">Favorite Spots</a></li>
+                <li><a href="/HTML/contact.html" onmouseenter="audio.play()">Share/Message</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h1><span id="head">Feel Free To Send A</span> Message!</h1>
+
+    <div class="message">
+        <form action="https://formsubmit.co/therealpologaming670@gmail.com" method="POST">
+            <fieldset>
+                <label for="First Name">First Name:</label>
+                <input type="text" name="First Name" required>
+                <br>
+                <label for="Last Name">Last Name:</label>
+                <input type="text" name="Last Name" id="">
+                <br>
+                <label for="Message">Message:</label>
+                <input type="text" name="message" id="mes" required>
+                <button id="button" type="submit" name="_next" value="https://juicy-summers.000webhostapp.com/HTML/contact.html">Submit</button>
+            </fieldset>
+        </form>
+    </div>
+
+    <script type="text/javascript">
+        const audio = new Audio();
+        audio.src = "./audio/beep.mp3"
+    </script>
+
+</body>
+</html>

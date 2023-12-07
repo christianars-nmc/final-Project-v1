@@ -1,0 +1,73 @@
+
+p {
+    width: 500px;
+    height: 200px;
+}
+
+#message {
+    background: black;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+}
+
+#message:hover {
+    background: white;
+    color: black;
+}
+
+.body-head {
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 5px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+table {
+    border-collapse: collapse;
+    font-weight: bold;
+    width: 1200px;
+    margin: 10px;
+}
+
+td, th {
+    border: 5px solid white;
+    width: 400px;
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+    height: 500px;
+    color: aqua;
+}
+
+th {
+    font-size: 1.2em;
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.pink {
+    color: hotpink;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+h1 {
+    color: aqua;
+}
